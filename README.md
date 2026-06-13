@@ -22,3 +22,5 @@ Notes
 
 License
 - MIT (or replace with your preferred license)
+
+- Project live at -https://crop-market-link.lovable.app
